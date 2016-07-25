@@ -9,9 +9,11 @@ http://github.com/Automic-Community/Citrix-XenServer-Action-Pack
 Contents of Solution Package:
 
 						
-								*uc_data_citrix_xenserver_04122015.txt
+								*PCK.TK_XENSERVER_1.1.0.zip
 								
 								*Citrix-XenServer-Action-Pack.docx
+								
+								*screenshot-ecc.png
 								
 								*screenshot.png
 								
@@ -21,7 +23,8 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
-<p>Various jobs and workflows that can be used to create and manage various XenServer objects, including&nbsp;VMs, network interfaces, storage objects</p>
+<p>Citrix XenServer is a leading server virtualization and hypervisor management platform.</p>
+<p>The action pack includes actions&nbsp;that can be used to create and manage XenServer objects including&nbsp;VMs, network interfaces, storage objects. The actions can be used within workflow to provision, decommision or reconfigure virtual environments.</p>
 
 Copyright and License
 ---
