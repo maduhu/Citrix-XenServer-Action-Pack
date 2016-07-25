@@ -2,7 +2,7 @@
 =============
 
 
-Objects provided to provision and manage virtual Citrix XenServer environments
+Provision and manage virtual Citrix XenServer environments
 http://github.com/Automic-Community/Citrix-XenServer-Action-Pack
 
 <!-- List of attached files -->
