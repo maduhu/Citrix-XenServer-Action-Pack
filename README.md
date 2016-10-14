@@ -11,7 +11,7 @@ Contents of Solution Package:
 						
 								*PCK.TK_XENSERVER_1.1.0.zip
 								
-								*Citrix-XenServer-Action-Pack.docx
+								*Citrix-XenServer-Action-Pack-1_1_0.docx
 								
 								*screenshot-ecc.png
 								
