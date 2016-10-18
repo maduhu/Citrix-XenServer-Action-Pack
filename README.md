@@ -13,6 +13,8 @@ Contents of Solution Package:
 								
 								*Citrix-XenServer-Action-Pack-1_1_0.docx
 								
+								*Citrix_Logo.png
+								
 								*screenshot-ecc.png
 								
 								*screenshot.png
