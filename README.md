@@ -25,6 +25,7 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
+<p><img src="https://448bb31d92917ba3390f-4a8f48d20b0d8c78b979208d38d37653.ssl.cf1.rackcdn.com/559/screenshots/Citrix_Logo.png" alt="" width="200" height="75" /></p>
 <p>Citrix XenServer is a leading server virtualization and hypervisor management platform.</p>
 <p>The action pack includes actions&nbsp;that can be used to create and manage XenServer objects including&nbsp;VMs, network interfaces, storage objects. The actions can be used within workflow to provision, decommision or reconfigure virtual environments.</p>
 
